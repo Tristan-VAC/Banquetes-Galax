@@ -84,7 +84,7 @@ a {
 }
 
 .hero {
-    background: url('/multimedia/imagenheader.jpg') no-repeat center/cover;
+    background: url('multimedia/imagenheader.jpg') no-repeat center/cover;
     height: 400px;
     display: flex;
     align-items: center;
